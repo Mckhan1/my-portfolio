@@ -36,12 +36,12 @@
             </div>
         </div>
         <h1>My Images</h1>
-        <div class="images">
+        <!-- <div class="images">
             <img src="../assets/mc_khan_edited.jpg" alt="">
             <img src="../assets/photo_2022-09-09_22-43-23.jpg" alt="">
             <img src="../assets/photo_2022-09-26_21-38-32.jpg" alt="">
             <img src="../assets/photo_2022-10-23_12-37-58_edited.jpg" alt="">
-        </div>
+        </div> -->
 
     </div>
 </template>
