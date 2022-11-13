@@ -51,7 +51,7 @@
             <div class="skills-item">
                 <p>vuex</p>
                 <div class="item">
-                    <p>3%</p>
+                    <p>70%</p>
                     <div class="progress">
                         <span class="vuex"></span>
                     </div>
@@ -154,7 +154,7 @@ span {
     width: 97%;
 }
 .vuex{
-    width: 3%;
+    width: 70%;
 }
 
 </style>
